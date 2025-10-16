@@ -15,7 +15,7 @@
   No Installation Required. Just Git clone or direct download
 
 ## Usage
-  1. ~~Run [vrfinal](https://github.com/KhiewJianBin/VR-Puzzle-Room/blob/main/VRFinal/vrfinal.exe)~~ Due to an issue, run vrfinal.exe with -nolog in VRFinal folder
+  1. ~~Run [vrfinal](https://github.com/KhiewJianBin/VR-Puzzle-Room/blob/main/VRFinal/vrfinal.exe)~~ Due to an issue, run vrfinal.exe with command line argument -nolog in VRFinal folder
  
 ## Instructions
 - [F1] in game to see controls
